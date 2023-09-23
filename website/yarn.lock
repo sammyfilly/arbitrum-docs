@@ -277,10 +277,10 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@arbitrum/sdk@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@arbitrum/sdk/-/sdk-3.0.0.tgz#a5dc48a00cb8c6e230a2c696c0e880a7f80c637d"
-  integrity sha512-Mws5WAxxirp3vk8JH3vyQ5H6q1NNUIAAGEd9oEnQYDMyTBHLKU293GA3s9w4w6ZfIq/RZq8YCexhy4D1R+mQng==
+"@arbitrum/sdk@^3.1.10":
+  version "3.1.11"
+  resolved "https://registry.yarnpkg.com/@arbitrum/sdk/-/sdk-3.1.11.tgz#14fa67daceef7568b949e4a2695d561dd47eec5b"
+  integrity sha512-qD+igbOn8IoBH6ofvoV8OVYiEv/Dhszw9mFNp1QDY6srBihGAh/cUuA1PQ+tBSdhYda+gWcELBT5kbbVkpbE9w==
   dependencies:
     "@ethersproject/address" "^5.0.8"
     "@ethersproject/bignumber" "^5.1.1"
