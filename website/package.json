@@ -28,7 +28,7 @@
     "@docusaurus/theme-mermaid": "^2.3.1",
     "clsx": "^1.2.1",
     "docusaurus-lunr-search": "^2.3.2",
-    "docusaurus-plugin-fathom": "^1.1.0",
+    "docusaurus-plugin-fathom": "^1.2.0",
     "ethers": "5.7.2",
     "got": "11.8.6",
     "posthog-docusaurus": "^2.0.0",
